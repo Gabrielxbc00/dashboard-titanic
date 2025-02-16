@@ -21,6 +21,7 @@ O objetivo deste projeto é explorar os dados do Titanic e apresentar insights a
 ├── filters.py                  # Script para aplicar filtros no dataset
 ├── dashboard.py                # Arquivo principal do Streamlit
 ├── requirements.txt            # Dependências do projeto
+├── dashboard_titanic.zip       # Arquivo compactado com todo o projeto
 ├── README.md                   # Documentação do projeto
 ```
 
@@ -55,6 +56,9 @@ O objetivo deste projeto é explorar os dados do Titanic e apresentar insights a
 ## 🌍 Acesse o Dashboard Online
 O projeto também está disponível online e pode ser acessado pelo link abaixo:
 🔗 [Dashboard Titanic](https://dashboard-titanic.streamlit.app/)
+
+## 📥 Download do Projeto Compactado
+Para facilitar o download do projeto completo, também foi enviado para o repositório o arquivo `dashboard_titanic.zip`, que contém todos os arquivos necessários.
 
 ## 📊 Funcionalidades
 ✅ **Filtros interativos**: Classe, sexo e faixa etária dos passageiros  
