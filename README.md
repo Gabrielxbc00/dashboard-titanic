@@ -52,6 +52,10 @@ O objetivo deste projeto é explorar os dados do Titanic e apresentar insights a
 5. **Acesse o dashboard**
    O Streamlit abrirá automaticamente no navegador. Caso não abra, acesse manualmente: [http://localhost:8501](http://localhost:8501)
 
+## 🌍 Acesse o Dashboard Online
+O projeto também está disponível online e pode ser acessado pelo link abaixo:
+🔗 [Dashboard Titanic](https://dashboard-titanic.streamlit.app/)
+
 ## 📊 Funcionalidades
 ✅ **Filtros interativos**: Classe, sexo e faixa etária dos passageiros  
 ✅ **Visualizações dinâmicas**: Gráficos interativos com Plotly  
